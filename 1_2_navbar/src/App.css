@@ -1,0 +1,29 @@
+.App{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: black;
+}
+
+.logo{
+  color: whitesmoke;
+}
+.opt{
+  display: flex;
+  justify-content: space-evenly;
+ 
+}
+.option{
+  justify-content: space-around;
+  margin-left: 15%;
+  color: whitesmoke;
+}
+
+.btn{
+  background-color: rgb(12, 131, 161);
+  border: none;
+  color: whitesmoke;
+  height: 35px;
+  width: 100px;
+  border-radius: 25px;
+}
